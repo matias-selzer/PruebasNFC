@@ -10,7 +10,7 @@ public class CrearAsset : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Mouse0))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             assetACrear.InstantiateAsync();
         }
