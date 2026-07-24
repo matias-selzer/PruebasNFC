@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: c94ca5ed34771e944913155ff138892d
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 437418343c636b6c1e3cd50cf3c6ed12
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -64,7 +64,7 @@ MonoBehaviour:
       - m_Id: 423613a371054d346af4f8bd9a7015b6
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: f83bb978681e49c48859144cb6ae4659
-        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+        m_Value: 'ServerData/[BuildTarget]'
       - m_Id: ca5e99d61d660c142b345ffed8a156c3
         m_Value: https://matias-selzer.github.io/PruebasNFC/ServerData/[BuildTarget]/
     m_ProfileEntryNames:
