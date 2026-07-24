@@ -15,4 +15,9 @@ public class CrearAsset : MonoBehaviour
             assetACrear.InstantiateAsync();
         }
     }
+
+    public void Crear()
+    {
+        assetACrear.InstantiateAsync();
+    }
 }
