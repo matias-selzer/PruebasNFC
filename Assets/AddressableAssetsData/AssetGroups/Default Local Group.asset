@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: c94ca5ed34771e944913155ff138892d
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: a0488dc747f268e4eb922b2bd10ab2cc
+    m_Address: Assets/Cubito.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 20394a57563607a4b8a53d2f9d882c32, type: 2}
   m_SchemaSet:
