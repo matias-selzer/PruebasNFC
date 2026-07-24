@@ -22,6 +22,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0182a038e00e694ba77dde430f0ab5e
+    m_Address: "Assets/Materials/Vicente_L\xF3pez_Porta\xF1a_-_el_pintor_Francisco_de_Goya.mat"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 20394a57563607a4b8a53d2f9d882c32, type: 2}
   m_SchemaSet:
